@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\ejercciiciio231\bin\Debug\net7.0\ejercciiciio231.exe
+C:\Users\kenne\source\repos\ejercciiciio231\bin\Debug\net7.0\ejercciiciio231.deps.json
+C:\Users\kenne\source\repos\ejercciiciio231\bin\Debug\net7.0\ejercciiciio231.runtimeconfig.json
+C:\Users\kenne\source\repos\ejercciiciio231\bin\Debug\net7.0\ejercciiciio231.dll
+C:\Users\kenne\source\repos\ejercciiciio231\bin\Debug\net7.0\ejercciiciio231.pdb
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.AssemblyInfo.cs
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.dll
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\refint\ejercciiciio231.dll
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.pdb
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ejercciiciio231.genruntimeconfig.cache
+C:\Users\kenne\source\repos\ejercciiciio231\obj\Debug\net7.0\ref\ejercciiciio231.dll
